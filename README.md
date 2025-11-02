@@ -1,2 +1,7 @@
 # airline-review-analysis
-Text data analysis of airline reviews using NLP techniques such as word cloud, sentiment analysis, and topic modeling.
+항공사 리뷰 데이터를 기반으로 텍스트마이닝(NLP) 을 수행한 프로젝트입니다.  
+리뷰 데이터는 웹 상의 공개 리뷰를 수집하여,  
+워드클라우드, 감성분석, LDA 토픽모델링을 통해 항공사별 서비스 인사이트를 도출하였습니다.  
+
+
+
